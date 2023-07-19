@@ -1,9 +1,9 @@
 # TwoStageMarkovTask
 This repository contains the **E-Prime** scripts and other relevant files to reproduce the Two-Stage Markov Decision Task
 
-Two versions of the task exist: 
-* ***Low* Working Memory (WM) Load** 
-* ***High* Working Memory (WM) Load**
+There are two versions of the task: 
+* ***Low*** Working Memory Load [Filename: **WM_TwoStep_LOW.ebs3**]
+* ***High*** Working Memory Load [Filename: **WM_TwoStep_HIGH.ebs3**]
 
 ![image](https://github.com/movivi/TwoStageMarkovTask/assets/46511747/beec4a53-126f-4d0f-8448-01b1807b1e8b)
 
