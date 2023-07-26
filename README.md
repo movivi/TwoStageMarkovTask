@@ -5,7 +5,8 @@ There are two versions of the task:
 * ***Low*** Working Memory Load [Filename: **WM_TwoStep_LOW.ebs3**]
 * ***High*** Working Memory Load [Filename: **WM_TwoStep_HIGH.ebs3**]
 
-![image](https://github.com/movivi/TwoStageMarkovTask/assets/46511747/beec4a53-126f-4d0f-8448-01b1807b1e8b)
+![image](https://github.com/movivi/TwoStageMarkovTask/assets/46511747/b61664fc-4ac8-49db-af38-4477ee4663d2)
+
 
 This task can be executed in **EEG/fMRI** or **behavior-only** mode
 
@@ -13,7 +14,8 @@ The EEG event codes are sent via **Serial Port**
 
 Please refer to **InLine** scripts within the *.es3* files for details on EEG event codes:
 
-![image](https://github.com/movivi/TwoStageMarkovTask/assets/46511747/54101c71-5b34-429e-84aa-353d06308ff0)
+![image](https://github.com/movivi/TwoStageMarkovTask/assets/46511747/48222cfe-81df-4cea-be86-bed50f9c341a)
+
 
 
 ## Credit
